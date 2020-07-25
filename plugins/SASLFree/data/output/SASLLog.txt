@@ -1,0 +1,33 @@
+[YAK-40 AVIONICS INFO]: Initializing...
+[YAK-40 AVIONICS INFO]: Path to module: E:\Games/XPlane/Aircraft/Yak-40/Yak-40 3.2b2efm/plugins/SASLFree/data/modules/main.lua
+[YAK-40 AVIONICS INFO]: Loading module...
+[YAK-40 AVIONICS INFO]: [LUA]: loading	module
+[YAK-40 AVIONICS INFO]: [LUA]: loading	KLN90
+[YAK-40 AVIONICS INFO]: [LUA]: loading	KLN90_engine
+[YAK-40 AVIONICS WARN]: [STACK]:| findDataRef : DataRefsHandler::luaFindDataRef: <scp/api/ismaster> not found
+[YAK-40 AVIONICS WARN]: [STACK]:| ...0 3.2b2efm/plugins/SASLFree/data/init/initProperties.lua:358 in function <globalPropertyi>
+[YAK-40 AVIONICS WARN]: [STACK]:| ...LFree/data/modules/Custom Module/KLN90//KLN90_engine.lua:127 in function <f>
+[YAK-40 AVIONICS WARN]: [STACK]:| .../Yak-40 3.2b2efm/plugins/SASLFree/data/init/initMain.lua:253 in function <KLN90_engine>
+[YAK-40 AVIONICS WARN]: [STACK]:| ...ins/SASLFree/data/modules/Custom Module/KLN90//KLN90.lua:26 in function <f>
+[YAK-40 AVIONICS WARN]: [STACK]:| .../Yak-40 3.2b2efm/plugins/SASLFree/data/init/initMain.lua:253 in function <KLN90>
+[YAK-40 AVIONICS WARN]: [STACK]:| ...
+[YAK-40 AVIONICS INFO]: [LUA]: loading	KLN90_panels
+[YAK-40 AVIONICS INFO]: [LUA]: loading	MD41_panel
+[YAK-40 AVIONICS INFO]: [LUA]: loading	textureLit
+[YAK-40 AVIONICS INFO]: [LUA]: loading	interactive
+[YAK-40 AVIONICS INFO]: [LUA]: loading	KLN90B_panel
+[YAK-40 AVIONICS INFO]: [LUA]: loading	needle
+[YAK-40 AVIONICS INFO]: [LUA]: loading	KLN90B_display
+[YAK-40 AVIONICS INFO]: [LUA]: loading	rectangle2
+[YAK-40 AVIONICS INFO]: [LUA]: loading	KLNpopup_panel
+[YAK-40 AVIONICS INFO]: [LUA]: loading	popupCloseButton
+[YAK-40 AVIONICS INFO]: [LUA]: loading	rectangle
+[YAK-40 AVIONICS INFO]: [LUA]: loading	mouseFocusedZone
+[YAK-40 AVIONICS INFO]: [LUA]: loading	menu
+[YAK-40 AVIONICS INFO]: [LUA]: loading	payload_window
+[YAK-40 AVIONICS INFO]: [LUA]: loading	payload_panel
+[YAK-40 AVIONICS INFO]: [LUA]: loading	digitstape
+[YAK-40 AVIONICS INFO]: [LUA]: loading	gps_panel
+[YAK-40 AVIONICS INFO]: Module loaded
+[YAK-40 AVIONICS INFO]: Disabling...
+[YAK-40 AVIONICS INFO]: SASL plugin stopped...

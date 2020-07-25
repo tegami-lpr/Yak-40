@@ -1,0 +1,42 @@
+state = {
+    ['contextWindows'] = {
+        ['KLN90B'] = {
+            ['visible'] = false;
+            ['mode'] = {
+                [1] = 0;
+            };
+            ['position'] = {
+                [1] = 703;
+                [2] = 504;
+                [3] = 488;
+                [4] = 157;
+            };
+        };
+        ['MD41 panel'] = {
+            ['visible'] = false;
+            ['mode'] = {
+                [1] = 0;
+            };
+            ['position'] = {
+                [1] = 1408;
+                [2] = 750;
+                [3] = 512;
+                [4] = 194;
+            };
+        };
+        ['Yak40 Payload panel'] = {
+            ['visible'] = false;
+            ['mode'] = {
+                [1] = 0;
+            };
+            ['position'] = {
+                [1] = 689;
+                [2] = 22;
+                [3] = 710;
+                [4] = 990;
+            };
+        };
+    };
+    ['legacyPopups'] = {
+    };
+};
